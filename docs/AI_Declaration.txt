@@ -1,0 +1,62 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Tasmia Tasnim
+Student ID: 22299255
+Assignment: 01
+Date: 25 October 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[*] Google Gemini
+[*] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[*] Learning/understanding concepts
+[*] Debugging my code
+[*] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+As a newbie, AI helped me in the installation and file creation process of Android Studio. 
+And generating code snippets, seeking help to understand codes & concepts, and fixing errors was the main usage of AI here.
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: MainActivity.kt       Section: _________________
+File: activity_main.xml     Section: _________________
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ___tasmia tasnim_________________
+Date: ______25/10/26_____________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
